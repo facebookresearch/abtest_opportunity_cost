@@ -1,3 +1,8 @@
+# Copyright (c) Meta Platforms, Inc. and affiliates.
+#
+# This source code is licensed under the MIT license found in the
+# LICENSE file in the root directory of this source tree.
+
 """Shared plotting style and colors for the paper figures.
 
 Every figure notebook calls ``apply_paper_style()`` first, then uses the color

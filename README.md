@@ -68,3 +68,8 @@ simulation-heavy notebooks takes a few minutes; later runs are instant.
 
 Build Bellman-family policies through `cached_criterion(Cls, ...)` (never the
 class directly) so the value-iteration solve is memoized.
+
+## License
+
+abtest_opportunity_cost is MIT licensed, as found in the [LICENSE](LICENSE)
+file.

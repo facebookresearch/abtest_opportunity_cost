@@ -1,3 +1,8 @@
+# Copyright (c) Meta Platforms, Inc. and affiliates.
+#
+# This source code is licensed under the MIT license found in the
+# LICENSE file in the root directory of this source tree.
+
 """Core algorithms for the Online Version Testing (OVT) paper.
 
 Self-contained reference implementation of every decision rule and simulation
